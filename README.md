@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dockerized Python Application
 
 ## Description
@@ -52,3 +53,6 @@ Then add:
 ```markdown
 ![Output Screenshot](screenshots/output.png)
 ```
+=======
+# docker-demo
+>>>>>>> 90ca8ad01627ef388b705f4c5e26ac9aebbb9532
